@@ -73,6 +73,6 @@ Integer: printf("%i", 5); Output: 5
 
 > gcc -Wall -Werror -Wextra -pedantic *.c
 
-#Authors 
+## Authors 
 
-* https://github.com/Sanoxi
+* [Oluwasanumi Balogun](https://github.com/Sanoxi)
