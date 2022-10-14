@@ -35,3 +35,24 @@ Type | Output
 c | single character
 s | string 
 r | string in reverse
+R | string in rot13
+d | integer in decimal
+i | integer
+% | percent sign
+x | lowercase hex
+X | Upppercase hex
+b | binary
+o | octal
+u | unsigned
+p | pointer
+F | expletive
+
+## Examples
+
+Character: printf("%c", 'Z'); Output:: Z
+
+String: printf("%s", 'This is ALX team project.'); Output: This is ALX team project.
+
+Integer: printf("%i", 5); Output: 5
+
+## Project Requirements
