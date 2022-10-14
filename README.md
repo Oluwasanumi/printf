@@ -56,3 +56,6 @@ String: printf("%s", 'This is ALX team project.'); Output: This is ALX team proj
 Integer: printf("%i", 5); Output: 5
 
 ## Project Requirements
+
+* Allowed editors: vi, vim, emacs
+* All your files will be compiled on Ubuntu 20.04 LTS
